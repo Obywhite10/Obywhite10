@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Obywhite10
-- 👀 I’m interested in software programs
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning gits and commands
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate on various coding
 - 📫 How to reach me 08162384150
 
 <!---
